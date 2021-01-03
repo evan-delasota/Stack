@@ -41,6 +41,4 @@ class Stack {
   void displayTop() {
     System.out.println(peek() + " is at the top of the stack.\n");
   }
-
-
 }
